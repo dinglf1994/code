@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyon/CLionProjects/20170106/174714/lyon/cmake-build-debug/nginx.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+

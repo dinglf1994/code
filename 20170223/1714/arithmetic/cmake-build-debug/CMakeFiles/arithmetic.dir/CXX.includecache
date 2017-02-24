@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyon/CLionProjects/20170223/1714/arithmetic/Iteration.cpp
+default.h
+/home/lyon/CLionProjects/20170223/1714/arithmetic/default.h
+
+/home/lyon/CLionProjects/20170223/1714/arithmetic/Kmp_1.cpp
+default.h
+/home/lyon/CLionProjects/20170223/1714/arithmetic/default.h
+
+/home/lyon/CLionProjects/20170223/1714/arithmetic/Recursion.cpp
+default.h
+/home/lyon/CLionProjects/20170223/1714/arithmetic/default.h
+
+/home/lyon/CLionProjects/20170223/1714/arithmetic/default.h
+iostream
+-
+
+/home/lyon/CLionProjects/20170223/1714/arithmetic/main.cpp
+default.h
+/home/lyon/CLionProjects/20170223/1714/arithmetic/default.h
+

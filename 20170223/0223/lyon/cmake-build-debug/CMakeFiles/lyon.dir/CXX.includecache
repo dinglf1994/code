@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyon/CLionProjects/20170223/0223/lyon/LinkStack.cpp
+iostream
+-
+default.h
+/home/lyon/CLionProjects/20170223/0223/lyon/default.h
+
+/home/lyon/CLionProjects/20170223/0223/lyon/List.cpp
+iostream
+-
+default.h
+/home/lyon/CLionProjects/20170223/0223/lyon/default.h
+
+/home/lyon/CLionProjects/20170223/0223/lyon/OrderQueu.cpp
+iostream
+-
+default.h
+/home/lyon/CLionProjects/20170223/0223/lyon/default.h
+
+/home/lyon/CLionProjects/20170223/0223/lyon/Queue.cpp
+iostream
+-
+default.h
+/home/lyon/CLionProjects/20170223/0223/lyon/default.h
+
+/home/lyon/CLionProjects/20170223/0223/lyon/default.h
+
+/home/lyon/CLionProjects/20170223/0223/lyon/main.cpp
+iostream
+-
+default.h
+/home/lyon/CLionProjects/20170223/0223/lyon/default.h
+
