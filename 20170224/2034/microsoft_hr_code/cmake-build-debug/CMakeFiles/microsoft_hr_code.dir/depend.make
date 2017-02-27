@@ -4,6 +4,9 @@
 CMakeFiles/microsoft_hr_code.dir/change2num.cpp.o: ../change2num.cpp
 CMakeFiles/microsoft_hr_code.dir/change2num.cpp.o: ../default.h
 
+CMakeFiles/microsoft_hr_code.dir/double_arr.cpp.o: ../default.h
+CMakeFiles/microsoft_hr_code.dir/double_arr.cpp.o: ../double_arr.cpp
+
 CMakeFiles/microsoft_hr_code.dir/main.cpp.o: ../default.h
 CMakeFiles/microsoft_hr_code.dir/main.cpp.o: ../main.cpp
 CMakeFiles/microsoft_hr_code.dir/main.cpp.o: ../sortStack.h

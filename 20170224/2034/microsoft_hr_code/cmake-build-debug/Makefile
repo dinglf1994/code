@@ -150,6 +150,33 @@ change2num.cpp.s:
 	$(MAKE) -f CMakeFiles/microsoft_hr_code.dir/build.make CMakeFiles/microsoft_hr_code.dir/change2num.cpp.s
 .PHONY : change2num.cpp.s
 
+double_arr.o: double_arr.cpp.o
+
+.PHONY : double_arr.o
+
+# target to build an object file
+double_arr.cpp.o:
+	$(MAKE) -f CMakeFiles/microsoft_hr_code.dir/build.make CMakeFiles/microsoft_hr_code.dir/double_arr.cpp.o
+.PHONY : double_arr.cpp.o
+
+double_arr.i: double_arr.cpp.i
+
+.PHONY : double_arr.i
+
+# target to preprocess a source file
+double_arr.cpp.i:
+	$(MAKE) -f CMakeFiles/microsoft_hr_code.dir/build.make CMakeFiles/microsoft_hr_code.dir/double_arr.cpp.i
+.PHONY : double_arr.cpp.i
+
+double_arr.s: double_arr.cpp.s
+
+.PHONY : double_arr.s
+
+# target to generate assembly for a file
+double_arr.cpp.s:
+	$(MAKE) -f CMakeFiles/microsoft_hr_code.dir/build.make CMakeFiles/microsoft_hr_code.dir/double_arr.cpp.s
+.PHONY : double_arr.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -270,6 +297,9 @@ help:
 	@echo "... change2num.o"
 	@echo "... change2num.i"
 	@echo "... change2num.s"
+	@echo "... double_arr.o"
+	@echo "... double_arr.i"
+	@echo "... double_arr.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyon/CLionProjects/20170227/1919/bigint/main.cpp
+stdio.h
+-
+iostream
+-
+vector
+-
+math.h
+-
+algorithm
+-
+queue
+-
+string.h
+-
+set
+-
+stack
+-
+stdlib.h
+-
+time.h
+-
+

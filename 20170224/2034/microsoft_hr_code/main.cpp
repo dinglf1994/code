@@ -15,6 +15,9 @@ ElemType StackPush(Stack &S, ElemType e);
 ElemType StackPop(Stack &S);
 ElemType SortStack(Stack &S, ElemType e);
 
+// 二维数组
+ElemType two_dimension_array(ElemType **arr);
+
 int main() {
     ElemType sum;
     sum = adder(10, 20);
@@ -41,7 +44,7 @@ int main() {
     ElemType e1 = StackPop(S);
     ElemType e2 = StackPop(S);
     ElemType e3 = StackPop(S);
-    cout << e1 << '\t' << e2  << '\t' << e3 << endl;
+    cout << e1 << '\t' << e2  << '\t' << e3 << '\n';
 
     Stack S2;
     InitStack(S2);
@@ -56,5 +59,15 @@ int main() {
     cout << n1 << '\t' << n2 << '\t' << n3 << '\n';
 
     cout << "--- 排序栈的实现END ---" << endl;
+
+    /*
+     * 测试二维数组
+     */
+    cout << '\n';
+    ElemType array[2][2] = {{1,3},{2,3}};
+    ElemType *p = &array[0][0];
+    ElemType **q = &p;
+    two_dimension_array(q);
+    cout << array[0][1] << endl;
     return 0;
 }

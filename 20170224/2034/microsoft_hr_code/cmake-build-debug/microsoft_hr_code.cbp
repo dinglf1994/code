@@ -90,6 +90,9 @@
 		<Unit filename="/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/default.h">
 			<Option target="microsoft_hr_code"/>
 		</Unit>
+		<Unit filename="/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/double_arr.cpp">
+			<Option target="microsoft_hr_code"/>
+		</Unit>
 		<Unit filename="/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/lyon.h">
 			<Option target="microsoft_hr_code"/>
 		</Unit>

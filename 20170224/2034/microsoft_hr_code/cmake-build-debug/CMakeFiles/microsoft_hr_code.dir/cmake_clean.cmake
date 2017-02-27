@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/microsoft_hr_code.dir/no_plus.cpp.o"
   "CMakeFiles/microsoft_hr_code.dir/change2num.cpp.o"
   "CMakeFiles/microsoft_hr_code.dir/sortStack.cpp.o"
+  "CMakeFiles/microsoft_hr_code.dir/double_arr.cpp.o"
   "microsoft_hr_code.pdb"
   "microsoft_hr_code"
 )
