@@ -1,13 +1,13 @@
 #include<iostream>
 #include "default.h"
 
-// 函数声明:
+// 链表函数声明:
 VlemType InitLNode(LinkList &L);
 VlemType ListInsertElem(LinkList &L, ElemType e);
 VlemType ShowList(LinkList L);
 VlemType ReversionList(LinkList &L);
 
-// 函数声明
+// 队列函数声明
 VlemType InitQueue(LinkQueue &Q);
 VlemType InsertQueue(LinkQueue &Q, ElemType e);
 ElemType OutQueue(LinkQueue &Q);

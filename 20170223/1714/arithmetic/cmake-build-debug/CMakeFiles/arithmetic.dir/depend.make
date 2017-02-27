@@ -7,6 +7,12 @@ CMakeFiles/arithmetic.dir/Iteration.cpp.o: ../default.h
 CMakeFiles/arithmetic.dir/Kmp_1.cpp.o: ../Kmp_1.cpp
 CMakeFiles/arithmetic.dir/Kmp_1.cpp.o: ../default.h
 
+CMakeFiles/arithmetic.dir/Kmp_2.cpp.o: ../Kmp_2.cpp
+CMakeFiles/arithmetic.dir/Kmp_2.cpp.o: ../default.h
+
+CMakeFiles/arithmetic.dir/Kmp_3.cpp.o: ../Kmp_3.cpp
+CMakeFiles/arithmetic.dir/Kmp_3.cpp.o: ../default.h
+
 CMakeFiles/arithmetic.dir/Recursion.cpp.o: ../Recursion.cpp
 CMakeFiles/arithmetic.dir/Recursion.cpp.o: ../default.h
 

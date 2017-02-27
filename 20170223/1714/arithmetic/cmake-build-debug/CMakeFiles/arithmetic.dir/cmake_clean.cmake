@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/arithmetic.dir/Iteration.cpp.o"
   "CMakeFiles/arithmetic.dir/Kmp_1.cpp.o"
   "CMakeFiles/arithmetic.dir/Kmp_2.cpp.o"
+  "CMakeFiles/arithmetic.dir/Kmp_3.cpp.o"
   "arithmetic.pdb"
   "arithmetic"
 )

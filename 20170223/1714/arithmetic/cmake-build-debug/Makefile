@@ -204,6 +204,33 @@ Kmp_2.cpp.s:
 	$(MAKE) -f CMakeFiles/arithmetic.dir/build.make CMakeFiles/arithmetic.dir/Kmp_2.cpp.s
 .PHONY : Kmp_2.cpp.s
 
+Kmp_3.o: Kmp_3.cpp.o
+
+.PHONY : Kmp_3.o
+
+# target to build an object file
+Kmp_3.cpp.o:
+	$(MAKE) -f CMakeFiles/arithmetic.dir/build.make CMakeFiles/arithmetic.dir/Kmp_3.cpp.o
+.PHONY : Kmp_3.cpp.o
+
+Kmp_3.i: Kmp_3.cpp.i
+
+.PHONY : Kmp_3.i
+
+# target to preprocess a source file
+Kmp_3.cpp.i:
+	$(MAKE) -f CMakeFiles/arithmetic.dir/build.make CMakeFiles/arithmetic.dir/Kmp_3.cpp.i
+.PHONY : Kmp_3.cpp.i
+
+Kmp_3.s: Kmp_3.cpp.s
+
+.PHONY : Kmp_3.s
+
+# target to generate assembly for a file
+Kmp_3.cpp.s:
+	$(MAKE) -f CMakeFiles/arithmetic.dir/build.make CMakeFiles/arithmetic.dir/Kmp_3.cpp.s
+.PHONY : Kmp_3.cpp.s
+
 Recursion.o: Recursion.cpp.o
 
 .PHONY : Recursion.o
@@ -276,6 +303,9 @@ help:
 	@echo "... Kmp_2.o"
 	@echo "... Kmp_2.i"
 	@echo "... Kmp_2.s"
+	@echo "... Kmp_3.o"
+	@echo "... Kmp_3.i"
+	@echo "... Kmp_3.s"
 	@echo "... Recursion.o"
 	@echo "... Recursion.i"
 	@echo "... Recursion.s"

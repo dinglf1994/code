@@ -3,5 +3,5 @@ project(arithmetic)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp default.h Recursion.cpp Iteration.cpp Kmp_1.cpp Kmp_2.cpp)
+set(SOURCE_FILES main.cpp default.h Recursion.cpp Iteration.cpp Kmp_1.cpp Kmp_2.cpp Kmp_3.cpp)
 add_executable(arithmetic ${SOURCE_FILES})

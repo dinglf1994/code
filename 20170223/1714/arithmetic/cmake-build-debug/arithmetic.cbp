@@ -93,6 +93,9 @@
 		<Unit filename="/home/lyon/CLionProjects/20170223/1714/arithmetic/Kmp_2.cpp">
 			<Option target="arithmetic"/>
 		</Unit>
+		<Unit filename="/home/lyon/CLionProjects/20170223/1714/arithmetic/Kmp_3.cpp">
+			<Option target="arithmetic"/>
+		</Unit>
 		<Unit filename="/home/lyon/CLionProjects/20170223/1714/arithmetic/Recursion.cpp">
 			<Option target="arithmetic"/>
 		</Unit>

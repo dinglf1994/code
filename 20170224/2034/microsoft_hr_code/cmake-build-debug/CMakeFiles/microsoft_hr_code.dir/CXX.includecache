@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/change2num.cpp
+default.h
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/default.h
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/default.h
+iostream
+-
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/lyon.h
+iostream
+-
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/main.cpp
+default.h
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/default.h
+sortStack.h
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/sortStack.h
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/no_plus.cpp
+iostream
+-
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/sortStack.cpp
+default.h
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/default.h
+sortStack.h
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/sortStack.h
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/sortStack.h
+default.h
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/default.h
+
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/topic_1.cpp
+lyon.h
+/home/lyon/CLionProjects/20170224/2034/microsoft_hr_code/lyon.h
+
